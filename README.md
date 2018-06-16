@@ -5,7 +5,7 @@
 
 Alternative cross-platform client for Evernote built in Electron.
 
-**Disclaimer:** Work in progress! Please check progress in the roadmap below.
+**Disclaimer:** Work in progress! It's been a long time since I have last touched it but I still have great plans for this project. Please check progress in the roadmap below and star the repository to receive notifications!
 
 ![Tantalus](media/screenshot.gif)
 
